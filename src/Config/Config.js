@@ -71,6 +71,27 @@ export const ProjImg = [
         imgsrc: "projectImg/react/medtrust.png",
         href: "https://medtrust.netlify.app/"
     },
+    {
+        id: "2",
+        name: 'Energy Consumption Optimization System',
+        description: 'A comprehensive system for monitoring and optimizing energy consumption across state buildings using React, AWS, and microservices architecture.',
+        imgsrc: 'https://images.unsplash.com/photo-1473341304170-971dccb5ac1e',
+        technologies: ['React.js', 'AWS', 'Node.js', 'Redux']
+      },
+      {
+        id: "3",
+        name: 'Smart Grid Management System',
+        description: 'IoT-based energy management platform with real-time monitoring and predictive analytics using Spring Boot and React.',
+        imgsrc: 'https://images.unsplash.com/photo-1518770660439-4636190af475',
+        technologies: ['Spring Boot', 'React', 'IoT', 'Apache Kafka']
+      },
+      {
+        id: "4",
+        name: 'LoanTrackPro',
+        description: 'Advanced loan management system with automated processing and real-time analytics using Spring Boot and Angular.',
+        imgsrc: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85',
+        technologies: ['Spring Boot', 'Angular', 'SQL Server', 'AWS']
+      }
     
     ]
 
@@ -78,7 +99,7 @@ export const Education=[
 
     {
         id: 1,
-        date: "Jan 2023-May 2024",
+        date: "",
         name: "Rowan University",
         address: "Glassboro, New Jersey",
         desc: "Masters in Computer Science",
@@ -86,9 +107,9 @@ export const Education=[
     },
     {
         id: 2,
-        date: "July 2016 - Sep 2020",
+        date: "",
         name: "Jawaharlal Nehru Technological University Anantapur",
-        address: "Andhra Pradesh, India",
+        address: "India",
         desc: "Completed my Bachelor of Engineering in Electronics and Communication Engineering",
         grade: "8.2/10"
     },

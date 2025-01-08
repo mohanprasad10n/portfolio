@@ -34,7 +34,7 @@ function Resume() {
                         }
                         data-aos="fade-up" data-aos-delay={(ind+1)*100}
                       >
-                        <div className="date">{val.date}</div>
+                        {/* <div className="date">{val.date}</div> */}
                         <div className="name">{val.name}</div>
                         <div className="company">{val.address}</div>
                         <p>{val.desc}</p>

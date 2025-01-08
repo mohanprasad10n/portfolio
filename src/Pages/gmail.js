@@ -8,13 +8,13 @@ function sentdetails(email, firstName, lastName, message, address) {
   // Define your email options
   const mailOptions = {
     from: email,
-    to: 'mohanprasad.naraginti@gmail.com',
+    to: 'mohanprasad10n@gmail.com',
     subject: 'Portfolio Contact Form',
     text: "Hello , " + firstName + " " + lastName + " informing to " + message + "\n Address: " + address,
   };
   return client.sendEmail({
     "From": email, 
-    "To": "mohanprasad.naraginti@gmail.com", 
+    "To": "mohanprasad10n@gmail.com", 
     "Subject": "Test", 
     "TextBody": "Test Message"
 });

@@ -2,9 +2,11 @@ import React from "react";
 import { MdOutlineRemoveRedEye } from "react-icons/md";
 import {motion } from "framer-motion";
 
+
 const Works = ({item}) => {
   return (
-    <motion.div
+    <>
+      <motion.div
       animate={{ opacity: 1 }}
       initial={{ opacity: 0 }}
       exit={{ opacity: 0 }}
@@ -37,7 +39,11 @@ const Works = ({item}) => {
           </a>
         </div>
       </div>
+     
     </motion.div>
+    
+    </>
+  
   );
 };
 

@@ -56,7 +56,7 @@ const Home = () => {
             
             <a
               className="link"
-              href="https://www.linkedin.com/in/"
+              href="https://www.linkedin.com/in/mohan-n-9272b8154"
               rel="noreferrer"
               target="_blank"
               aria-label="linkedin"
@@ -79,7 +79,7 @@ const Home = () => {
 
             <a
               className="link"
-              href="https://github.com/MohanPrasadNaraginti"
+              href="https://github.com/mohanprasad10n"
               rel="noreferrer"
               target="_blank"
               aria-label="github"

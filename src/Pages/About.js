@@ -17,10 +17,11 @@ function About() {
               <div className="col col-6 border-line-v">
                 <div className="text-box"  data-aos="fade-up">
                   <p>
-                    Hi, I'm Mohan Prasad, Experienced FullStack Software Developer with experience and expertise in both frontend with React JS and Backend with proficient in Java, Spring Boot, JPA, Hibernate and Cloud Technologies. Skilled in building dynamic web applications, microservices
+                    Hi, I'm Mohan Prasad, strategic software developer with over 7 years of experience, specializing in full-stack development with experience and expertise in both frontend with React JS and Backend with proficient in Java, Spring Boot, JPA, Hibernate and Cloud Technologies. Skilled in building dynamic web applications, microservices
 architecture, and data visualization. Contributing myself in implementing export functionality,
 data analysis, warehousing and ensuring secure transactions for clients in the banking, health and e-commerce sectors.
                   </p>
+                
                 </div>
               </div>
               <div className="col col-6 border-line-v">
@@ -35,11 +36,19 @@ data analysis, warehousing and ensuring secure transactions for clients in the b
                       <strong>Address: </strong>Glassboro, New Jersey
                     </li>
                     <li>
-                      <strong>Gmail: </strong> mohanprasad.naraginti@gmail.com
+                      <strong>Gmail: </strong> mohanprasad10n@gmail.com
                     </li>
       
                   </ul>
                 </div>
+       
+                <strong>Certifications</strong>
+                <ul >
+                  <li><a href="https://www.hackerrank.com/certificates/238c62cd3fbe" style={{color:"blue",textDecoration:"underline"}}>HackerRank Frontend Certification</a></li>
+                  <li><a href="https://www.hackerrank.com/certificates/30168aa3e385" style={{color:"blue",textDecoration:"underline"}}>HackerRank React JS Certification</a></li>
+                  <li><a href="https://www.hackerrank.com/certificates/09a17285264c" style={{color:"blue",textDecoration:"underline"}}>HackerRank CSS Certification</a></li>
+                </ul>
+          
               </div>
             </div>
           </div>
