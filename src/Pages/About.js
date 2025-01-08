@@ -29,7 +29,7 @@ data analysis, warehousing and ensuring secure transactions for clients in the b
                   <ul>
                     <li>
                       <strong>Linkedin: </strong>
-                      <a href=""  target="_blank" > Linkedln </a>
+                      <a href="https://www.linkedin.com/in/mohan-prasad-n-9272b8154/"  target="_blank" > Linkedln </a>
                     </li>
                    
                     <li>

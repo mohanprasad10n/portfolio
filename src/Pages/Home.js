@@ -56,7 +56,7 @@ const Home = () => {
             
             <a
               className="link"
-              href="https://www.linkedin.com/in/mohan-n-9272b8154"
+              href="https://www.linkedin.com/in/mohan-prasad-n-9272b8154/"
               rel="noreferrer"
               target="_blank"
               aria-label="linkedin"
